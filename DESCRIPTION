@@ -1,0 +1,13 @@
+Package: ANES2016
+Type: Package
+Title: Visualizes some 2016 ANES data
+Version: 0.1.0
+Authors@R: person("Jay", "Lee", email = "jaylee@reed.edu",
+  role = c("aut", "cre"))
+Description: Takes data from the 2016 American National Election Study and creates
+    a function for visualizing some of this data.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: ggplot2
+RoxygenNote: 6.0.1
